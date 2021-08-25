@@ -14,7 +14,7 @@ CompatibilityScore.m: MATLAB code, compute compatibility score for any aligned s
 
 StructueFitness.m: MATLAB code, compute structural fitness score for any aligned sequence using parameters obtained from DCAparameter.m.
 
-MSA_LacI_homologs.fasta: Fasta file, contains homologous multiple sequence alignments (MSAs) of interested protein members from a family (LacI family for this paper). It is used as input file for coevolutionary analysis. Due to large size, it will be provided separately.
+MSA_LacI_homologs.fasta: Fasta file, contains homologous multiple sequence alignments (MSAs) of protein members from a family (LacI family for this paper). It is used as input file for coevolutionary analysis. 
 
 LacI family residue pairs with top 1500 DI values: Txt file used for compatibility score computation. It contains strongly coevolved residue pairs between DNA recognition module and environmental sensing module computed from same MSAs file used for DCAparameter.m code. Their direct information values are computed by DCA method (dca.m) and are among the top 1500. The original dca code can be found in dca.rice.edu.
 
