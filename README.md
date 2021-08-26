@@ -1,10 +1,10 @@
 # coevolution-compatibility
-Companion software for "Coevolutionary methods enable robust design of modular repressors by reestablishing intra-protein interactions"
+Companion software for "Coevolutionary methods enable robust design of modular repressors by reestablishing intra-protein interactions". Nature Communications. 2021
 
 AUTHORS
 Xian-Li Jiang, Rey P. Dimas, Clement T. Y. Chan, Faruck Morcos
 
-Description: This README file describes the codes and data accompanying the above publication.
+Description: This README file describes the code and data accompanying the above publication.
 
 Files:
 
